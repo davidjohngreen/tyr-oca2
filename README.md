@@ -7,4 +7,4 @@ the script "analysis.r" brings together the extracted data to perform simple cas
 
 the script "ukbiobank_analysis.r" performs simple statistics on phenotypic data extracted from the UK Biobank Research Analysis Platform
 
-the script "example.r" in the folder "example" performs a case-control analysis using logistf on an simulated dataset "example_dataset"
+the script "example.r" in the folder "example" performs a case-control analysis using logistf on an simulated dataset "example_dataset.txt"
