@@ -6,5 +6,3 @@ scripts in the folder "data_processing" perform simple bioinformatics manipulati
 the script "analysis.r" brings together the extracted data to perform simple case-control analysis using the R package "logistf"
 
 the script "ukbiobank_analysis.r" performs simple statistics on phenotypic data extracted from the UK Biobank Research Analysis Platform
-
-the script "example.r" in the folder "example" performs a case-control analysis using logistf on an simulated dataset "example_dataset.txt"
